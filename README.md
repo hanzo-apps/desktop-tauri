@@ -1,13 +1,22 @@
 # Hanzo Desktop
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Fdesktop-tauri&template=desktop-tauri"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=desktop-tauri"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/desktop-tauri"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/desktop-tauri/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 Tauri v2 + React 19 desktop starter — Rust commands, Hanzo Base backend, one web preview build.
 
 A **Hanzo desktop template**: one codebase, three installers (macOS, Windows,
 Linux) and a web build. Fork it, `npm i`, ship.
 
 - Live web preview: <https://desktop-tauri.hanzo.app>
-- Installers: <https://github.com/hanzo-templates/desktop-tauri/releases/latest>
-- Source: <https://github.com/hanzo-templates/desktop-tauri>
+- Installers: <https://github.com/hanzo-apps/desktop-tauri/releases/latest>
+- Source: <https://github.com/hanzo-apps/desktop-tauri>
 
 ![desktop-tauri](./public/preview.png)
 
